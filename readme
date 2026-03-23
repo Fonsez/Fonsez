@@ -1,80 +1,52 @@
-<h1 align="center">Olá, eu sou Gabriel Fonseca 👋</h1>
+# 👋 Fala, eu sou o Gabriel Fonseca (Fonses)!
 
-<p align="center">
-  <b>Desenvolvedor Full Stack Pleno</b><br>
-  Especialista em JavaScript, Infraestrutura e Performance
-</p>
+### <img src="https://img.shields.io/badge/Desenvolvedor%20Full%20Stack-E34F26?style=for-the-badge&logo=github&logoColor=white" alt="Desenvolvedor Full Stack" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/fonses" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+Me chamo Gabriel Fonseca, moro em Curitiba-PR. Sou Desenvolvedor Full Stack | Pleno com mais de **6 anos de experiência** criando sistemas de alto impacto e otimização.
+
+O projeto **GoBarber**, um sistema completo de agendamentos, foi desenvolvido e deployado inteiramente por mim, do zero ao servidor VPS.
+
+Cursando **ADS & GTI** na **PUCPR**.
+
+---
+
+<div align="left">
+  <a href="https://linkedin.com/in/fonses">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:contatofonses@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <img src="https://img.shields.io/badge/Curitiba-PR-1f6feb?style=for-the-badge" />
-</p>
-
----
-
-## 💻 Sobre mim
-
-Desenvolvo soluções web há **6 anos**, criando sistemas escaláveis e de alto impacto.
-
-- Código limpo e escalável  
-- Foco em UX e performance  
-- Deploy estruturado  
-- Resultados reais para negócio  
-
----
-
-## 🚀 O que eu faço
-
-- 💻 Full Stack com **React + Node.js**
-- 📊 Sistemas sob medida (financeiros, votação, etc)
-- ⚙️ Infra & Deploy com **VPS + Docker**
-- 📈 SEO e otimização de conversão
-
----
-
-## 🛠️ Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,prisma,postgres,docker,git,linux" />
-</p>
-
----
-
-## 🏆 Projeto destaque
-
-### GoBarber
-
-Sistema completo de agendamentos do zero ao deploy
-
-- Backend robusto com Node.js  
-- Frontend com React  
-- Infra em VPS  
-
----
-
-## 📈 Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fonsez&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonsez&layout=compact&theme=tokyonight"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fonsez&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/6+%20ANOS-informational?style=for-the-badge" alt="6+ anos" />
+  <img src="https://img.shields.io/badge/Followers-9-333333?style=for-the-badge" alt="9 seguidores" />
+  <img src="https://img.shields.io/badge/Stars-15-ffd700?style=for-the-badge&logoColor=black" alt="15 estrelas" />
+  <img src="https://img.shields.io/badge/Projects-44-E44D26?style=for-the-badge" alt="44 projetos" />
 </div>
 
 ---
 
-## 📫 Contato
+## 🛠️ Linguagens e Tecnologias
 
-<p align="center">
-  <a href="https://linkedin.com/in/fonses">LinkedIn</a> •
-  <a href="mailto:contatofonses@gmail.com">Email</a>
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VPS-darkblue?style=for-the-badge" alt="VPS" />
+  <img src="https://img.shields.io/badge/SEO-green?style=for-the-badge" alt="SEO" />
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fonsez&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas de Gabriel" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonsez&layout=compact&langs_count=7&theme=dark&locale=pt-br" alt="Principais Linguagens de Gabriel" />
+</div>
