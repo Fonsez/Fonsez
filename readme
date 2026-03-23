@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Desenvolvedor Full Stack Pleno</b><br>
-  Especialista em Ecossistema JavaScript, Infraestrutura e Performance
+  Especialista em JavaScript, Infraestrutura e Performance
 </p>
 
 <p align="center">
@@ -19,92 +19,62 @@
 
 ## 💻 Sobre mim
 
-Desenvolvo soluções web há **6 anos**, transformando regras de negócio complexas em sistemas de alto impacto.
+Desenvolvo soluções web há **6 anos**, criando sistemas escaláveis e de alto impacto.
 
-Tenho foco em construir aplicações com:
-- código limpo e escalável,
-- boa experiência de usuário,
-- performance,
-- deploy estruturado,
-- e resultados reais para o negócio.
+- Código limpo e escalável  
+- Foco em UX e performance  
+- Deploy estruturado  
+- Resultados reais para negócio  
 
 ---
 
 ## 🚀 O que eu faço
 
-- **Full Stack Development** com foco em **React.js** e **Node.js**
-- **Sistemas sob medida** como simuladores financeiros, calculadoras de taxas e sistemas de votação
-- **Infra & Deploy** com VPS, Docker e automações
-- **SEO e Performance** para melhorar conversão e presença digital
+- 💻 Full Stack com **React + Node.js**
+- 📊 Sistemas sob medida (financeiros, votação, etc)
+- ⚙️ Infra & Deploy com **VPS + Docker**
+- 📈 SEO e otimização de conversão
 
 ---
 
-## 🛠️ Stack principal
+## 🛠️ Stack
 
-### Front-end
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass" />
-</p>
-
-### Back-end
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,prisma" />
-</p>
-
-### Banco de dados
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" />
-</p>
-
-### Infra & Ferramentas
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,prisma,postgres,docker,git,linux" />
 </p>
 
 ---
 
-## 🏆 Projeto em destaque
+## 🏆 Projeto destaque
 
 ### GoBarber
-Sistema completo de agendamentos desenvolvido do zero ao deploy.
 
-**Principais entregas:**
-- Arquitetura robusta de backend com **Node.js**
-- Interface fluida com **React**
-- Deploy e gestão de infraestrutura em **servidor VPS**
+Sistema completo de agendamentos do zero ao deploy
 
----
-
-## 🎓 Formação
-
-- **ADS & GTI — PUCPR**
+- Backend robusto com Node.js  
+- Frontend com React  
+- Infra em VPS  
 
 ---
 
 ## 📈 Estatísticas
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fonsez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonsez&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fonsez&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonsez&layout=compact&theme=tokyonight"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fonsez&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fonsez&theme=tokyonight"/>
 </div>
 
 ---
 
 ## 📫 Contato
 
-<p>
-  <a href="https://linkedin.com/in/fonses" target="_blank">LinkedIn</a> •
-  <a href="mailto:contatofonses@gmail.com">contatofonses@gmail.com</a>
-</p>
-
----
-
 <p align="center">
-  Feito com dedicação por <b>Gabriel Fonseca</b>
+  <a href="https://linkedin.com/in/fonses">LinkedIn</a> •
+  <a href="mailto:contatofonses@gmail.com">Email</a>
 </p>
