@@ -1,48 +1,110 @@
-# Fala, eu sou o Gabriel Fonseca (Fonses)! 👋
+<h1 align="center">Olá, eu sou Gabriel Fonseca 👋</h1>
 
-### Desenvolvedor Full Stack Pleno | Especialista em Ecossistema JS & Infra
+<p align="center">
+  <b>Desenvolvedor Full Stack Pleno</b><br>
+  Especialista em Ecossistema JavaScript, Infraestrutura e Performance
+</p>
 
-Desenvolvo soluções web há 6 anos, transformando regras de negócio complexas em sistemas de alto impacto. Meu foco é unir código de qualidade, performance e uma experiência de usuário impecável.
-
----
-
-### O que eu faço?
-
-- **Full Stack Development:** Experiência sólida com React.js e Node.js.
-- **Sistemas Sob Medida:** Criação de simuladores financeiros, calculadoras de taxas e sistemas de votação.
-- **Infra & Deploy:** Gerenciamento completo de aplicações em servidores VPS e automação.
-- **Foco em Resultado:** Otimização para buscadores (SEO) e alta conversão de leads.
-
-### Minha Stack Técnica
-
-- **Front-end:** React.js, Next.js, JavaScript (ES6+), TypeScript, SCSS, HTML5, CSS3.
-- **Back-end:** Node.js, Prisma ORM, APIs REST.
-- **Banco de Dados:** PostgreSQL.
-- **Infra/Tools:** VPS, Docker, SEO, Git, Linux.
+<p align="center">
+  <a href="https://linkedin.com/in/fonses" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contatofonses@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Curitiba-PR-1f6feb?style=for-the-badge" />
+</p>
 
 ---
 
-### 🏆 Destaque de Projeto
+## 💻 Sobre mim
 
-**[GoBarber]** - Sistema completo de agendamentos desenvolvido do zero ao deploy.
-- Arquitetura robusta de backend com Node.js.
-- Interface fluida com React.
-- Deploy e gestão de infra em servidor VPS.
+Desenvolvo soluções web há **6 anos**, transformando regras de negócio complexas em sistemas de alto impacto.
 
----
-
-### 🎓 Formação & Atualidade
-
-- 🎓 ADS & GTI PUCPR
+Tenho foco em construir aplicações com:
+- código limpo e escalável,
+- boa experiência de usuário,
+- performance,
+- deploy estruturado,
+- e resultados reais para o negócio.
 
 ---
 
-### 📫 Vamos trocar uma ideia?
+## 🚀 O que eu faço
 
-- **LinkedIn:** [in/fonses](https://linkedin.com/in/fonses)
-- **E-mail:** [contatofonses@gmail.com](mailto:contatofonses@gmail.com)
+- **Full Stack Development** com foco em **React.js** e **Node.js**
+- **Sistemas sob medida** como simuladores financeiros, calculadoras de taxas e sistemas de votação
+- **Infra & Deploy** com VPS, Docker e automações
+- **SEO e Performance** para melhorar conversão e presença digital
+
+---
+
+## 🛠️ Stack principal
+
+### Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass" />
+</p>
+
+### Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma" />
+</p>
+
+### Banco de dados
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+### Infra & Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+</p>
+
+---
+
+## 🏆 Projeto em destaque
+
+### GoBarber
+Sistema completo de agendamentos desenvolvido do zero ao deploy.
+
+**Principais entregas:**
+- Arquitetura robusta de backend com **Node.js**
+- Interface fluida com **React**
+- Deploy e gestão de infraestrutura em **servidor VPS**
+
+---
+
+## 🎓 Formação
+
+- **ADS & GTI — PUCPR**
+
+---
+
+## 📈 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fonsez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonsez&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fonsez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonsez&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fonsez&theme=tokyonight" />
+</div>
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://linkedin.com/in/fonses" target="_blank">LinkedIn</a> •
+  <a href="mailto:contatofonses@gmail.com">contatofonses@gmail.com</a>
+</p>
+
+---
+
+<p align="center">
+  Feito com dedicação por <b>Gabriel Fonseca</b>
+</p>
